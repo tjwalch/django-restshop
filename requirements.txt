@@ -1,0 +1,23 @@
+backports-abc==0.4
+beautifulsoup4==4.4.1
+Django==1.9.1
+-e git+git@github.com:tjwalch/django-bower.git@f4fb2af4b77ea8dc6a580062bb7d53b939f05341#egg=django_bower
+django-countries==3.4.1
+django-debug-toolbar==1.4
+-e git+git@github.com:tjwalch/django-livereload-server.git@b189e83f6fcf333e2e528224b2a5efca0b96d9c2#egg=django_livereload_server
+django-model-utils==2.4
+django-money==0.7.6
+djangorestframework==3.3.2
+-e git+git@github.com:tjwalch/djasmine.git@ef72684f8627c5e021eea86aad5240046c5f2c21#egg=djasmine
+glob2==0.4.1
+jasmine-core==2.4.0
+ordereddict==1.1
+psycopg2==2.6.1
+py-moneyed==0.6.0
+python-stdnum==1.2
+requests==2.9.1
+selenium==2.49.2
+six==1.10.0
+sqlparse==0.1.18
+stripe==1.28.0
+tornado==4.3
